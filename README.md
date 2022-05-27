@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **VincentVanDeShow/VincentVanDeShow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/VincentVanDeSho"><img src="https://api.daily.dev/devcards/4c2161343698456494bb0290eedd358d.png?r=1iq" width="400" alt="Vincent Kempers's Dev Card"/></a>
+<a href="https://app.daily.dev/VincentVanDeSho"><img src="https://github.com/VincentVanDeShow/VincentVanDeShow/blob/main/devcard.svg" width="400" alt="VincentVanDeShow Daily Dev Card"/></a>
